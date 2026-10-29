@@ -129,7 +129,7 @@
 ## 🏥 Health & Life Sciences
 - [claude-ally-health](https://github.com/huifer/Claude-Ally-Health) - A comprehensive health assistant for Claude to analyze medical reports, track health metrics, and provide personalized wellness suggestions.
 - [dna-claude-analysis](https://github.com/shmlkv/dna-claude-analysis) - Personal genome analysis toolkit that processes raw DNA data from 23andMe/AncestryDNA across 17 categories (health, ancestry, nutrition, pharmacogenomics, longevity, etc.) and generates a terminal-style HTML dashboard.
-- [Satori](https://github.com/MetcalfSolutions/Satori) - Clinically informed wisdom companion blending IFS, DBT, Stoicism, Buddhism, and six other traditions into a structured thinking partner.
+- [Satori](https://github.com/MetcalfSolutions/Satori) - Open-source wisdom companion (Apache 2.0) for Claude Code, CLIs, and web chat: one lens per turn, a local SQLite memory vault, and trigger discipline that defers during pure coding tasks.
 
 
 ## 🤝 Collaboration & Project Management
